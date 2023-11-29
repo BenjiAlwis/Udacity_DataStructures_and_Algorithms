@@ -1,0 +1,7 @@
+﻿['/home/sja/SelfDrv/temp/Form.py', '/home/sja/SelfDrv/temp/Student.py', '/home/sja/SelfDrv/temp/Subject.py', '/home/sja/SelfDrv/temp/Teacher.py', '/home/sja/SelfDrv/temp/temp2/Lesson.py', '/home/sja/SelfDrv/temp/temp2/Sport.py']
+['/home/sja/SelfDrv/temp/Heads LOC.ods', '/home/sja/SelfDrv/temp/Untitled 1.ods', '/home/sja/SelfDrv/temp/Students LOC.ods']
+['/home/sja/SelfDrv/temp/Heads.csv', '/home/sja/SelfDrv/temp/Teachers.csv', '/home/sja/SelfDrv/temp/Students.csv']
+[]
+[]
+[]
+[]

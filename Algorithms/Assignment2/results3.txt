@@ -1,0 +1,83 @@
+The size of the data is: 88
+
+The content of the data is: My Algorithms and Data Structure Course
+
+The size of the encoded data is: 48
+
+The content of the encoded data is: 111001111000110111011111010001010101100001001111001110011001001101011000010000011000011101111111011110000101111100101001101111110101000111110011000101101010001000111110
+
+The size of the decoded data is: 89
+
+The content of the encoded data is: My Algorithms and Data Structure Course 
+
+Case2
+The size of the data is: 94
+
+The content of the data is: My Second Course is Self Driving Car Engineer
+
+The size of the encoded data is: 52
+
+The content of the encoded data is: 01110011111000110100011110111010101101010011100111011101001011111111000010101111100011010011011111011000110001101110101100001010010111100011100110011101100110010010111101010010100100101100
+
+The size of the decoded data is: 95
+
+The content of the encoded data is: My Second Course is Self Driving Car Engineer 
+
+Case3
+The size of the data is: 67
+
+The content of the data is: I am enjoying them
+
+The size of the encoded data is: 36
+
+The content of the encoded data is: 11001011011111110111000111010010101000111001011010000100001110111110
+
+The size of the decoded data is: 68
+
+The content of the encoded data is: I am enjoying them 
+
+Edge Case 1
+My fourth string is
+
+Empty or invalid string 
+
+
+Edge Case 2
+My fifth string is
+**
+Encoded as
+110
+The following encoded line
+11101010100000001
+is decoded back into
+*** * * *       *
+
+
+
+
+Edge Case 3
+My sixth string is
+eeeeeenjoyyiingg really eeeenjoyyyyiingg
+Encoded as
+101010101010001110111101011111100000000101101111000100110010000101010111111001010101000111011110101111111111110000000010110111100
+The following encoded line
+10101010101000111001101111111100000000
+is decoded back into
+eeeeeen jyyii
+
+
+
+
+Edge Case 4
+My sixth string is
+AAAAAAAAAAAAAAAAA
+Encoded as
+111111111111111110
+The following encoded line
+10101010101000111001101111111100000000
+is decoded back into
+A A A A A A   AAA  AA AAAAAAAA        
+
+
+
+

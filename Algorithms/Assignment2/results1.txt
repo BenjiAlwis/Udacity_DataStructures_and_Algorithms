@@ -1,0 +1,47 @@
+First Test
+1
+2
+-1
+-1
+Second Test
+-1
+-1
+137
+-1
+137
+Third Test
+15
+11
+-1
+Edge Case 1- Testing a cache of zero size
+Cache Capacity is zero
+Cache Capacity is zero
+Cache Capacity is zero
+Cache Capacity is zero
+Cache Capacity is zero
+Cache Capacity is zero
+Cache Capacity is zero
+Cache Capacity is zero
+Cache Capacity is zero
+-1
+Cache Capacity is zero
+-1
+-1
+Edge Case 2- Testing a cache of negative size
+Cache Capacity is zero
+Cache Capacity is zero
+Cache Capacity is zero
+Cache Capacity is zero
+Cache Capacity is zero
+Cache Capacity is zero
+Cache Capacity is zero
+Cache Capacity is zero
+Cache Capacity is zero
+-1
+Cache Capacity is zero
+-1
+-1
+Edge Case 3- Testing a cache of very high size
+15
+11
+16

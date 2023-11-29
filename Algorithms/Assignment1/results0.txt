@@ -1,0 +1,2 @@
+﻿First record of texts: <incoming number> 97424 22395 <answering number> 90365 06212 at time 01-09-2016 06:03:22
+Last record of calls: <incoming number> 98447 62998 <answering number> (080)46304537 at time 30-09-2016 23:57:15, lasting 2151 seconds
